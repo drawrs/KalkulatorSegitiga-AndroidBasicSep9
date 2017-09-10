@@ -1,0 +1,7 @@
+#Sun Sep 10 16:18:02 WIB 2017
+base.0=/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6842860af90e3136dd5b4f46aba2cc431821fe2a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fe26c89c130e283a1f14f2bd4adae3a927dcb2d6/classes.dex
+base.1=/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fe26c89c130e283a1f14f2bd4adae3a927dcb2d6
+file.0=/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6842860af90e3136dd5b4f46aba2cc431821fe2a/classes.dex

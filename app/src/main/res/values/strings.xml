@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator Segitiga</string>
+    <string name="hint_alas">nilai alas</string>
+    <string name="hint_tinggi">nilai tinggi</string>
+    <string name="label_hasil">Hasil :</string>
+    <string name="tombol_hitung">hitung</string>
+    <string name="tombol_clear">clear</string>
+    <string name="tombol_kirim">kirim</string>
+    <string name="label_alas">Nilai Alas :</string>
+    <string name="label_tinggi">Nilai Tinggi</string>
+</resources>

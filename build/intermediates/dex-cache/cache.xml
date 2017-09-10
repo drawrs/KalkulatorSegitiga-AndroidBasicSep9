@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c1088efe45402b85d38eb24e3dfef2109641975">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fe26c89c130e283a1f14f2bd4adae3a927dcb2d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_21c6da295415df979c71d62c8fb3c116f0dd076c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6842860af90e3136dd5b4f46aba2cc431821fe2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5070b831c6b3ceaa3f3984babdc239a23a1148a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/khilman/Documents/MyFirstTrained/minggu-pertama/KalkulatorSegitiga/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8904fc9ea4f477818a8e2f5e37283fa41ded870/classes.dex" />
+    </item>
+
+</items>
